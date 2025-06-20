@@ -1,4 +1,4 @@
-#Screen Snip Tool for Accounting Checks#
+# Screen Snip Tool for Accounting Checks #
 A lightweight and intuitive screen snipping tool designed to simplify accounting verification tasks. Features include:
 
 ✂️ Simple screen capture
